@@ -23,4 +23,5 @@ I'm a web and mobile developer passionate about building modern applications. I 
 
 ## 📫 How to reach me
 - **LinkedIn:** [Hamirul Syakir](https://www.linkedin.com/in/hamirul-syakir-ab900123b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=my)
-- **Email:** [hamirulsuwardi@gmail.com]
+- **Email:** [hamirulsuwardi@gmail.com](mailto:hamirulsuwardi@gmail.com)
+
