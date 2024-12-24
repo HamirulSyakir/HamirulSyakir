@@ -15,10 +15,12 @@ I'm a web and mobile developer passionate about building modern applications. I 
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub, Docker
 
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamirulSyakir&show_icons=true&theme=radical)
+
 ## 📈 Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamirulSyakir&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Hamirul Syakir](https://www.linkedin.com/in/hamirul-syakir-ab900123b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=my)
 - **Email:** [hamirulsuwardi@gmail.com]
-
