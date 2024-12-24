@@ -22,8 +22,9 @@ I'm a web and mobile developer passionate about building modern applications. I 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamirulSyakir&show_icons=true&theme=radical)
 
 ## 👀 Profile Views
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HamirulSyakir)
+![Profile Views](https://profile-counter.glitch.me/HamirulSyakir/count.svg)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Hamirul Syakir](https://www.linkedin.com/in/hamirul-syakir-ab900123b/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=my)
 - **Email:** [hamirulsuwardi@gmail.com](mailto:hamirulsuwardi@gmail.com)
+****
